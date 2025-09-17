@@ -1,4 +1,1 @@
- lion 
-tiger 
-leopard 
-turtle
+ lion tiger leopard turtle
